@@ -36,6 +36,7 @@ Central ideas within HUSHING include:
 
 The methodology is set out in the essay:
 
+[420 HUSHING_Kane_Cunningham_FINAL_CONTENTS_12PT (1) copy 2.pdf](https://github.com/user-attachments/files/32434919/420.HUSHING_Kane_Cunningham_FINAL_CONTENTS_12PT.1.copy.2.pdf)
 **HUSHING: A Creative Methodology for Painting Place from the Inside — Against the Picturesque: Upper Wharfedale**
 
 **Author: Kane Cunningham**
