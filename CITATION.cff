@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you cite this methodology, please use the following citation."
+title: "HUSHING: A Creative Methodology for Painting Place from the Inside — Against the Picturesque: Upper Wharfedale"
+type: generic
+authors:
+  - family-names: Cunningham
+    given-names: Kane
+version: "Draft-Working Document, August 2026"
+repository-code: "https://github.com/kanebcunningham-cell/Hushing"
+url: "https://github.com/kanebcunningham-cell/Hushing/blob/main/HUSHING_Kane_Cunningham_Painting_Methodology.pdf"
+abstract: >-
+  HUSHING is a place-generated creative methodology for abstract landscape
+  painting in which accumulated knowledge is released through decisive
+  material action, allowing process rather than resemblance to carry place.
+keywords:
+  - Hushing
+  - Kane Cunningham
+  - abstract landscape painting
+  - Painting Place from the Inside
+  - Upper Wharfedale
+  - landscape painting methodology
